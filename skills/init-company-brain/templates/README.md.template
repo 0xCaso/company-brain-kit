@@ -1,0 +1,13 @@
+<!-- Template for a new company brain's README. Replace {{PLACEHOLDERS}}; delete declined [[OPTIONAL]] blocks. -->
+# {{ORG_NAME}}
+
+{{ONE_LINE_PURPOSE}}
+
+This is a **company brain**: a structured markdown workspace operated by an AI agent. Start with [`CLAUDE.md`](CLAUDE.md) — it's the rulebook and the map.
+
+- `context/` — evergreen reference (read first)
+- `outputs/` — generated / dated artifacts
+[[OPTIONAL projects]]- `projects/<slug>/` — one folder per engagement[[/OPTIONAL projects]]
+- `.claude/skills/` — custom commands
+
+Scaffolded with [init-company-brain](https://github.com/0xCaso/company-brain).
