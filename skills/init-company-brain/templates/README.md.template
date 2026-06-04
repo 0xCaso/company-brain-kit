@@ -10,4 +10,4 @@ This is a **company brain**: a structured markdown workspace operated by an AI a
 [[OPTIONAL projects]]- `projects/<slug>/` — one folder per engagement[[/OPTIONAL projects]]
 - `.claude/skills/` — custom commands
 
-Scaffolded with [init-company-brain](https://github.com/0xCaso/company-brain).
+Scaffolded with [init-company-brain](https://github.com/0xCaso/company-brain-kit).

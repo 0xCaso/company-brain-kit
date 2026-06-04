@@ -1,4 +1,4 @@
-# company-brain
+# company-brain-kit
 
 A **company brain** is your business as a structured markdown repo that an AI agent can actually run.
 
@@ -10,6 +10,10 @@ Think of your dad's garage: a few labelled compartments for your stuff, a pegboa
 - **`.claude/skills/`** — your custom commands. *(the tools on the pegboard)*
 
 Swap the operator — [Claude Code](https://claude.com/claude-code) today, [Hermes](https://hermes-agent.nousresearch.com/docs) tomorrow, a teammate next week — and the structure stays. That's the whole idea.
+
+## Fastest start: hand it to your agent
+
+Point your coding agent at this repo and just say *"have a look."* It reads [`CLAUDE.md`](CLAUDE.md), sees everything here, and asks what you want to do — scaffold a company brain, walk through a skill, or install one. You don't have to read the rest of this file.
 
 ## How this repo is organized
 
