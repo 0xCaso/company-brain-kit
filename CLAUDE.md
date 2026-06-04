@@ -4,6 +4,12 @@
 guided scaffolder plus a few example skills someone can copy into their own setup.
 Your job is to help the person who handed you this repo get value from it fast.
 
+You may be working **just from this repo's URL** (no local clone) — that's fine. Read
+each file you need via its raw URL as you go (e.g.
+`https://raw.githubusercontent.com/0xCaso/company-brain-kit/main/skills/init-company-brain/SKILL.md`).
+You don't need to clone anything to scaffold a brain or explain a skill; only offer to
+clone if the user wants to keep the example skills on their machine.
+
 ## What's here
 - `skills/init-company-brain/` — ★ the guided scaffolder. Its `SKILL.md` interviews the
   user and writes a new company brain (`context/`, `outputs/`, `CLAUDE.md`, `README.md`).
@@ -45,6 +51,8 @@ cp -r skills/<name> ~/.claude/skills/          # available everywhere
 # or, just for one project:
 cp -r skills/<name> /path/to/project/.claude/skills/
 ```
+No local clone? Either clone the repo first, or recreate the skill by reading its files
+via their raw URLs and writing them into `~/.claude/skills/<name>/`.
 
 ### 4 · Explain the kit
 Give the 30-second tour from "What's here" above, then offer paths 1–3.
